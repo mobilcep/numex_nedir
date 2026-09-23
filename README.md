@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="gorseller/numex-banner.png" alt="Numex — İnsanı önce koyan Türk yapay zekâsı" width="100%">
+
 # ◆ Numex AI
 
 ## Türkiye'nin yerli yapay zeka ekosistemi
@@ -13,6 +15,8 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 [![KVKK](https://img.shields.io/badge/KVKK-uyumlu-22c55e)](urunler/12-guvenlik-kvkk.md)
 [![API](https://img.shields.io/badge/API-v1-f59e0b)](urunler/05-api-ve-sdk.md)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-blue)](LICENSE)
+
+🇹🇷 **Türkçe** · 🇬🇧 [English](README.en.md)
 
 [🚀 Ücretsiz başla](https://numexai.com.tr) ·
 [🧩 Ürünler](urunler/) ·
@@ -331,8 +335,8 @@ Fotoğrafçılık'ın kurucusu.
 ## 🤝 Katkı
 
 Bu depo Numex AI'ın **açık tanıtım ve dokümantasyon** deposudur. Yazım düzeltmeleri, çeviriler,
-kullanım örnekleri ve yeni makaleler için Pull Request açabilirsiniz. Soru ve önerileriniz için
-[Issues](../../issues).
+kullanım örnekleri ve yeni makaleler için Pull Request açabilirsiniz → [CONTRIBUTING.md](CONTRIBUTING.md) ·
+[Davranış Kuralları](CODE_OF_CONDUCT.md). Soru ve önerileriniz için [Issues](../../issues).
 
 ## 📬 İletişim
 
