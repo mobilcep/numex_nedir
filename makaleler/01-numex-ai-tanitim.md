@@ -2,52 +2,62 @@
 
 *"Türkçe konuşan, Türk kültürünü anlayan bir yapay zeka neden yok?"*
 
-2021'de İstanbul'da, bir fotoğraf stüdyosunun arka odasında sorulan bu soru bugün **Numex AI**'ın
-temelini oluşturuyor. Numex; sohbetten kod yazmaya, belge analizinden web aramasına kadar geniş bir
-yelpazede, **Türkçe'ye ve Türk kullanıcısına özel** tasarlanmış bir yapay zeka platformu.
+2021'de İstanbul'da, bir fotoğraf stüdyosunun arka odasında sorulan bu soru bugün **Numex**'in
+temelini oluşturuyor. Numex kendini tek cümleyle tanımlıyor: **"İnsanı önce koyan Türk yapay zekâsı."**
+Ve ekliyor: **"Aracın değil, yoldaşın."**
 
 ## Çeviri değil, Türkçe
 
-Yapay zeka araçlarının çoğu İngilizce düşünür, Türkçe konuşur. Sonuç: kulağa yabancı gelen,
-"yapılmaktadır"la biten, resmi ve soğuk cümleler. Numex bu sorunu kökünden ele alır: her yanıt,
-Türkçe düzeltme, ton kontrolü ve format ayarı yapan katmanlardan geçer. Hedef, **"yapılır" diyen**
-bir yapay zeka.
+Yapay zeka araçlarının çoğu İngilizce düşünür, Türkçe konuşur. Sonuç: "yapılmaktadır"la biten, resmi
+ve soğuk cümleler. Numex'te her yanıt beş katmanlı **Pipeline**'dan geçer: prompt güçlendirilir,
+model yanıt üretir, **Boru 2A** Türkçe'yi düzeltip tonu ayarlar, **Boru 2B** kaliteyi denetler.
+Hedef, *"yapılır"* diyen bir yapay zeka. v3.1'de yalnızca bu katman Türkçe çıktı kalitesini %30 artırdı.
 
-## Karakterler: Türk kültürünü bilen uzmanlar
+## Karakterler: kültürü bilen uzmanlar
 
-Numex'in en sevilen özelliklerinden biri **karakter sistemi**. `@` ile çağrılan 9 uzman karakter,
-kendi alanlarında Türk kültürüne uygun yanıtlar verir:
+`@` ile çağrılan karakterler kendi alanlarında, kendi tonlarıyla konuşur:
 
-- **@FatmaAna** — yemek tarifleri, ev ekonomisi, gündelik hayat
-- **@LokmanHekim** — sağlıklı yaşam üzerine sohbet
-- **@Üstat**, **@HaciBayramHoca**, **@Kod** ve diğerleri
+- **@FatmaAna** — yemek, mutfak, leke ve temizlik, bayram sofraları
+- **@MuhasebeciYunus** — KDV, stopaj, beyanname, SGK, e-fatura
+- **@LokmanHekim** — sağlıklı yaşam sohbetleri
+- **@HaciBayramHoca** — manevi sorular
+- **@Üstat**, **@Avukat**, **@Kod** ve diğerleri
 
 Bir kullanıcının sözleriyle: *"Annem bile kullanıyor artık."*
 
-## Tek bir cevap yerine en doğru cevap
+## Tek cevap değil, doğrulanmış cevap
 
-Kritik sorularda Numex, **Detective Mode™** ile birden fazla modeli aynı soru üzerinde bağımsız
-çalıştırır; bir hakem sistemi yanıtları karşılaştırıp en doğrusunu gerekçesiyle seçer. Karmaşık
-görevlerde ise **Multi-Agent** mimarisi işi parçalara böler ve uzman ajanlara dağıtır.
+Kritik sorularda **Detective Mode™** aynı soruyu birden çok modele çözdürür; hakem en doğrusunu
+gerekçesiyle seçer. Karmaşık görevlerde **Multi-Agent** işi parçalara böler. Birden çok uzman
+gerektiğinde **DeepView™** tek bir **Master Plan** üretir ve yapay zekanın nasıl düşündüğünü 6 katmanda
+gösterir.
 
-## Her yerde aynı Numex
+## Tek akıl, birçok kapı
 
-- 🌐 **Web & PWA** — kayıt olmadan tarayıcıdan deneyin, telefonunuza uygulama olarak ekleyin.
-- ⌨️ **Numex CLI** — terminalden çalışan kodlama asistanı; uzaktan PC köprüsüyle telefondan bilgisayarınıza komut gönderin.
-- 🧩 **Numex Codex IDE** — VS Code altyapılı, yapay zeka entegreli editör.
+Numex artık bir sohbet uygulamasından çok daha fazlası. Hepsi aynı **Core — Beyin** üzerinde:
+
+| Herkes için | Yazılımcı için | Topluluk için |
+|---|---|---|
+| 💬 **Numex** — sohbet & asistan | ⌨️ **CLI** — terminalden | 📦 **Hub** — keşfet & çatalla |
+| 🎓 **Okul** — doğrulanmış testler | 🧰 **SDK** — uygulamana göm | 🏗️ **Forge** — Git deposu |
+| 🧩 **Codex** — kod editörü | 🔌 **API** — uzaktan bağlan | 📖 **Numexpedia** — Türkçe ansiklopedi |
+| 🛍️ **Market** — 44 hazır uygulama | | 🎮 **Oyun Bahçesi** — 7'den 70'e |
+
+Aynı ekipten: **Pusulam** (ön muhasebe & POS) ve **PC Doktoru** (Windows bakım).
 
 ## Herkes için erişilebilir
 
-Ücretsiz planla başlayabilir (günde 15 mesaj), ihtiyaç büyüdükçe ₺99'dan başlayan planlara
-geçebilirsiniz. Abonelik istemeyenler için 8 saatlik ₺29'luk "Gece Bileti" gibi otomatik
-yenilenmeyen zaman bazlı biletler de var.
+- Kayıt olmadan günde 5 mesaj; ücretsiz planla günde 15 mesaj.
+- Başlangıç PRO ₺99/ay · Numex PRO ₺399/ay · Advanced ₺599/ay; yıllık ödemede 2 ay bedava.
+- Abonelik istemeyenlere 8 saatlik **₺29 Gece Bileti** gibi otomatik yenilenmeyen biletler.
+- **Market**, **Numexpedia** ve **Oyun Bahçesi** tamamen ücretsiz.
 
 ## Veriler Türkiye'de
 
-Numex, verileri Türkiye sınırları içinde, KVKK standartlarına uygun şekilde işler ve saklar. Çift
-sunucu mimarisi kesintisiz hizmeti hedefler.
+Veriler Türkiye sınırları içinde, KVKK uyumlu altyapıda işlenir. Her biri 256 GB RAM'li çift sunucu
+mimarisi kesintisiz hizmeti hedefler.
 
-👉 **[numexai.com.tr](https://numexai.com.tr)** — Ücretsiz başlayın.
+👉 **[numexai.com.tr](https://numexai.com.tr)** · Aile haritası: **[numexai.com.tr/aile](https://www.numexai.com.tr/aile)**
 
 ---
 *#NumexAI #YapayZeka #TürkçeAI #KVKK*

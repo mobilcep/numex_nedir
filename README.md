@@ -322,9 +322,11 @@ Fotoğrafçılık'ın kurucusu.
 
 1. [Numex AI: Türkçe düşünen yapay zeka](makaleler/01-numex-ai-tanitim.md)
 2. [Pipeline, Detective Mode™ ve Multi-Agent nasıl çalışır?](makaleler/02-pipeline-detective-multi-agent.md)
-3. [Geliştiriciler için Numex](makaleler/03-gelistiriciler-icin-numex.md)
+3. [Geliştiriciler için Numex: Codex, CLI, SDK, API, Hub ve Forge](makaleler/03-gelistiriciler-icin-numex.md)
 4. [Veri Türkiye'de kalır: KVKK ve altyapı](makaleler/04-kvkk-ve-altyapi.md)
-5. [Numex ekosistemi: PC Doktoru, PusulamX ve ötesi](makaleler/05-numex-ekosistemi.md)
+5. [Tek akıl, birçok kapı: Numex Ailesi](makaleler/05-numex-ekosistemi.md)
+6. [Kendi kendini doğrulayan yapay zeka: Okul, Market ve FinishGate](makaleler/06-dogrulanmis-yapay-zeka.md)
+7. [Bir logonun iki yüzü: Selçuklu yıldızı ve yapay zeka](makaleler/07-logonun-hikayesi.md)
 
 ## 🤝 Katkı
 

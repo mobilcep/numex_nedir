@@ -1,47 +1,60 @@
-# Numex Ekosistemi: PC Doktoru, PusulamX ve Ötesi
+# Tek Akıl, Birçok Kapı: Numex Ailesi
 
-Numex AI bir sohbet uygulaması olarak başladı; bugün aynı yapay zeka çekirdeğini farklı ihtiyaçlara
-taşıyan bir **ürün ailesine** dönüştü.
+> **Tek bir akıl, birçok kapı. Aracın değil, yoldaşın. Biz bir aileyiz.**
+> — [numexai.com.tr/aile](https://www.numexai.com.tr/aile)
 
-## 🌐 Numex AI Platform
-Sohbet, kod, görsel, ses, belge analizi ve web araması. Web ve PWA olarak her cihazda.
-→ [numexai.com.tr](https://numexai.com.tr)
+Numex bir sohbet uygulaması olarak başladı. Bugün aynı yapay zeka çekirdeğini hayatın farklı
+köşelerine taşıyan bir **aile**.
 
-## ⌨️ Numex CLI & 🧩 Numex Codex IDE
-Terminal ve editör için otonom kodlama asistanları; uzaktan PC köprüsüyle telefondan bilgisayara.
+## Kalp: Core — Beyin
 
-## 🤖 Numex Agent
-Tespit → plan → onay → uygula. Çok adımlı görevleri planlayan, değişiklikleri diff olarak sunan ve
-onayınızla uygulayan ajan altyapısı.
+*"Hepsinin arkasındaki akıl — kod ve uygulama üretir."* Numexpedia'daki tanımıyla Core, *"bir isteği
+alıp kodu yazan, sonra durmayıp çalıştıran, test eden ve dürüstçe denetleyen otonom ajan"*dır. Dört
+uzmanlı **Swarm Council** (Mimar, Kodlayıcı, Denetçi, Tasarımcı), kendini iyileştiren döngü ve kanıt
+isteyen **FinishGate** bu dürüstlüğün mekanizmalarıdır.
 
-## 🩺 PC Doktoru Süper Ajan
-Numex'in ajan yaklaşımının Windows masaüstündeki yüzü:
+## 🟢 Uygulamalar — herkes için
 
-- Yapay zeka asistanı (yerel Ollama veya offline kural tabanlı mod)
-- Otonom mod, rollback ile güvenli tamir, 18+ bakım aracı
-- Portable, reklamsız, 14 gün ücretsiz deneme
-- Bireysel ₺349/yıl · Aile ₺549/yıl
+**💬 Numex** — Türkçe sohbet ve asistan: kod, belge analizi, web araması, görsel, ses, karakterler,
+Detective Mode, DeepView.
 
-→ [pcdoktoru.com.tr](https://pcdoktoru.com.tr) · [GitHub](https://github.com/mobilcep/pcdoktoru)
+**🎓 Okul** — [okul.numexai.com.tr](https://okul.numexai.com.tr): Seviye, ders, konu seç; bir yapay
+zeka testi üretir, **ikinci bir yapay zeka bağımsız çözer**, cevaplar uyuşmazsa soru elenir. LGS, TYT,
+AYT, Lise İngilizce, ehliyet sınavı; ekranda çöz ya da PDF al.
 
-## 🧭 PusulamX — İşletmeler için
-*"Pusulam"* işletmenin rotasını güvenle bulmasını sağlayan analitik rehberliği; **"X"** ise
-eXponential büyümeyi, insan ile yapay zekanın birleşimindeki çarpan etkisini temsil eder.
-PusulamX, KOBİ'lerin **ön muhasebe ve POS** süreçlerinde büyümesini hedefler.
+**🧩 Codex** — [codex.numexai.com.tr](https://codex.numexai.com.tr): Türkçe kod ajanı; web editörü,
+masaüstü IDE ve VS Code eklentisi.
 
-## 🎓 Numex Okul
-Yapay zeka destekli eğitim ve içerik üretimi.
+**🛍️ Market** — [market.numexai.com.tr](https://market.numexai.com.tr): Numex'in otonom ürettiği 44
+ücretsiz, açık kaynak uygulama; 7 kategori (oyun, simülasyon, yapay zeka, araçlar, üretkenlik,
+web/OS, diğer).
+
+## 🔶 Geliştirici Araçları — yazılımcı için
+
+**⌨️ CLI** terminalden, **🧰 SDK** uygulamana göm, **🔌 API** uzaktan bağlan.
+
+## 🟢 Platform & Topluluk — geliştirici için
+
+**📦 Hub** — keşfet & çatalla; Topluluk Vitrini ve canlı akış.
+**🏗️ Forge** — Gitea tabanlı Türkçe Git sunucusu.
+**📖 Numexpedia** — [pedia.numexai.com.tr](https://pedia.numexai.com.tr): *"Bilgisayar, yapay zeka ve
+yazılım dünyasını herkesin anlayacağı sade Türkçe ile"* — 28 makale, 8 kategori, özgür ve ücretsiz.
+**🎮 Oyun Bahçesi** — 7'den 70'e oyunlar.
+
+## 🤝 Aynı ekipten
+
+**🧭 Pusulam** — ön muhasebe & POS; KOBİ'lerin "X" çarpanıyla büyümesi.
+**🩺 PC Doktoru** — Windows için yapay zekalı, portable bakım/teşhis/tamir; otonom mod ve rollback.
 
 ## Ortak DNA
 
-Tüm Numex ürünleri aynı ilkeleri paylaşır:
-
 1. **Türkçe önce gelir.**
-2. **Veriniz sizde / Türkiye'de kalır.**
-3. **Kontrol kullanıcıdadır** — ajanlar önerir, siz onaylarsınız.
-4. **Şeffaflık** — kararların gerekçesi görünür.
+2. **Veri Türkiye'de / cihazında kalır.**
+3. **Kontrol kullanıcıdadır** — ajan önerir, sen onaylarsın.
+4. **Dürüstlük** — kanıtsız "bitti" yok, uyuşmayan soru teste girmez, gerçek veri yoksa sayı uydurulmaz.
+5. **Tek hesap** — Google veya GitHub ile tüm aileye tek girişte.
 
 > *"Yapay zeka insanı desteklemeli, yerini almamalı."* — Nurullah Şahin, Kurucu
 
 ---
-*#NumexAI #PCDoktoru #PusulamX #Ekosistem*
+*#NumexAI #NumexAilesi #Codex #NumexOkul #NumexMarket #Numexpedia*
