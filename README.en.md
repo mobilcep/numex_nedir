@@ -132,6 +132,8 @@ const numex = new Numex({ apiKey: process.env.NUMEX_API_KEY });
 await numex.chat.completions.create({ messages: [{ role: 'user', content: 'Merhaba' }] });
 ```
 
+📦 **Repos:** [numex-codex](https://github.com/mobilcep/numex-codex) · [numex-api](https://github.com/mobilcep/numex-api) · [numex-sdk](https://github.com/mobilcep/numex-sdk) (open source)
+
 The agent keeps an open, readable **`.numex/`** folder in every project — RAG index, audit trail,
 checkpoints, learned errors — so you can always see what it knows and what it did.
 

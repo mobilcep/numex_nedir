@@ -256,6 +256,8 @@ curl -X POST https://www.numexai.com.tr/api/v1/chat \
   -d '{"message":"Merhaba","history":[]}'
 ```
 
+📦 **Depolar:** [numex-codex](https://github.com/mobilcep/numex-codex) · [numex-api](https://github.com/mobilcep/numex-api) · [numex-sdk](https://github.com/mobilcep/numex-sdk) (açık kaynak)
+
 → [CLI](urunler/02-numex-cli.md) · [Codex IDE](urunler/03-numex-codex-ide.md) · [Core](urunler/04-numex-core.md) · [API & SDK](urunler/05-api-ve-sdk.md) · [Hub & Forge](urunler/06-hub-ve-forge.md)
 
 ## 💳 Planlar ve fiyatlar
