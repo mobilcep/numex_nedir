@@ -23,6 +23,29 @@ Turkish-first by design — data stays in Türkiye, KVKK (Turkish GDPR) complian
 > Numex started with that question in Istanbul in **2021**. Today it is a family of products running
 > on a single brain — **"One mind, many doors. Not a tool — a companion."**
 
+## ✨ Showcase
+
+<table>
+<tr>
+<td width="50%"><a href="https://numexai.com.tr"><img src="gorseller/kart-numexai.png" alt="Numex AI — Türkçe düşünen yapay zekâ"></a>
+<b>💬 Numex AI</b> — Turkish chat, code, documents, search, characters, Detective Mode™<br>
+<a href="https://numexai.com.tr">numexai.com.tr</a> · <a href="urunler/01-numex-ai-platform.md">details</a></td>
+<td width="50%"><a href="https://okul.numexai.com.tr"><img src="gorseller/kart-okul.png" alt="Numex Okul — iki yapay zekâ ile doğrulanmış testler"></a>
+<b>🎓 Numex Okul</b> — one AI writes each question, a second AI verifies it; exam prep<br>
+<a href="https://okul.numexai.com.tr">okul.numexai.com.tr</a> · <a href="urunler/11-numex-okul.md">details</a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://market.numexai.com.tr"><img src="gorseller/kart-market.png" alt="Numex Market — 44 açık kaynak uygulama"></a>
+<b>🛍️ Numex Market</b> — 44 free, open-source apps Numex built by itself<br>
+<a href="https://market.numexai.com.tr">market.numexai.com.tr</a> · <a href="urunler/13-numex-market.md">details</a></td>
+<td width="50%"><a href="https://pedia.numexai.com.tr"><img src="gorseller/kart-pedia.png" alt="Numexpedia — özgür Türkçe ansiklopedi"></a>
+<b>📖 Numexpedia</b> — computing and AI explained in plain Turkish; 28 articles<br>
+<a href="https://pedia.numexai.com.tr">pedia.numexai.com.tr</a> · <a href="urunler/14-numexpedia.md">details</a></td>
+</tr>
+</table>
+
+**For developers:** 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 📦 [Hub](https://hub.numexai.com.tr) · 🏗️ [Forge](https://forge.numexai.com.tr)
+
 ## ◆ At a glance
 
 | | |

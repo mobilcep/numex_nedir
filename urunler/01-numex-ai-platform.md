@@ -1,5 +1,7 @@
 # 🌐 Numex AI Platform — Web & PWA
 
+![kart-numexai](../gorseller/kart-numexai.png)
+
 **Türkçe sohbet, kod, görsel, ses, belge analizi ve web araması — tek arayüzde.**
 🔗 [numexai.com.tr](https://numexai.com.tr)
 

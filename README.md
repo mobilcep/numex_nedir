@@ -33,6 +33,29 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 > Numex AI bu soruyla **2021**'de İstanbul'da yola çıktı. Bugün web'den terminale, editörden
 > Windows masaüstüne, işletme yazılımından geliştirici API'sine uzanan bir **ekosistem**.
 
+## ✨ Vitrin
+
+<table>
+<tr>
+<td width="50%"><a href="https://numexai.com.tr"><img src="gorseller/kart-numexai.png" alt="Numex AI — Türkçe düşünen yapay zekâ"></a>
+<b>💬 Numex AI</b> — Türkçe sohbet, kod, belge, arama, karakterler, Detective Mode™<br>
+<a href="https://numexai.com.tr">numexai.com.tr</a> · <a href="urunler/01-numex-ai-platform.md">ayrıntı</a></td>
+<td width="50%"><a href="https://okul.numexai.com.tr"><img src="gorseller/kart-okul.png" alt="Numex Okul — iki yapay zekâ ile doğrulanmış testler"></a>
+<b>🎓 Numex Okul</b> — bir AI soruyu yazar, ikinci AI doğrular; LGS · TYT · AYT · ehliyet<br>
+<a href="https://okul.numexai.com.tr">okul.numexai.com.tr</a> · <a href="urunler/11-numex-okul.md">ayrıntı</a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://market.numexai.com.tr"><img src="gorseller/kart-market.png" alt="Numex Market — 44 açık kaynak uygulama"></a>
+<b>🛍️ Numex Market</b> — Numex'in kendi yazdığı 44 ücretsiz, açık kaynak uygulama<br>
+<a href="https://market.numexai.com.tr">market.numexai.com.tr</a> · <a href="urunler/13-numex-market.md">ayrıntı</a></td>
+<td width="50%"><a href="https://pedia.numexai.com.tr"><img src="gorseller/kart-pedia.png" alt="Numexpedia — özgür Türkçe ansiklopedi"></a>
+<b>📖 Numexpedia</b> — bilgisayar ve yapay zekâ, sade Türkçe ile; 28 makale<br>
+<a href="https://pedia.numexai.com.tr">pedia.numexai.com.tr</a> · <a href="urunler/14-numexpedia.md">ayrıntı</a></td>
+</tr>
+</table>
+
+**Geliştiriciler için:** 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 📦 [Hub](https://hub.numexai.com.tr) · 🏗️ [Forge](https://forge.numexai.com.tr)
+
 ## 📑 İçindekiler
 
 1. [Bir bakışta Numex](#-bir-bakışta-numex)

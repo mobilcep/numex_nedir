@@ -1,5 +1,7 @@
 # 📖 Numexpedia — Özgür Türkçe Ansiklopedi
 
+![kart-pedia](../gorseller/kart-pedia.png)
+
 🔗 **[pedia.numexai.com.tr](https://pedia.numexai.com.tr)** · *Özgür · Ücretsiz · Türkçe*
 
 > **Bilgisayar, yapay zeka ve yazılım dünyasını herkesin anlayacağı sade Türkçe ile anlatıyoruz.**

@@ -1,5 +1,7 @@
 # 🎓 Numex Okul — Yapay Zekâ Destekli Test Platformu
 
+![kart-okul](../gorseller/kart-okul.png)
+
 🔗 **[okul.numexai.com.tr](https://okul.numexai.com.tr)** · *Doğrulanmış testler*
 
 > **Eğitimde AI Devrimi** — Öğrenciler, veliler ve öğretmenler için yapay zekâ destekli test

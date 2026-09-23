@@ -1,5 +1,7 @@
 # 🛍️ Numex Market
 
+![kart-market](../gorseller/kart-market.png)
+
 🔗 **[market.numexai.com.tr](https://market.numexai.com.tr)** · *Açık Kaynak · Ücretsiz · Otonom Üretim*
 
 > **Numex AI'nın sıfırdan kodladığı uygulamalar — hepsi ücretsiz ve açık kaynak.**
