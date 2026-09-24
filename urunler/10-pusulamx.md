@@ -89,6 +89,36 @@ geçen, tamamlanan, karşılıksız** durumları. Bankaya ver, ciro et, tahsil e
 Alışlar · Satışlar · **e-Fatura** · Şubeler · Müşteriler · Tedarikçiler · Teklifler · Hesaplar ·
 Banka Ekstresi · Kampanya · Hatırlatmalar · Raporlar · Ajanda · Çalışanlar & Ekip · **Muhasebeci Ağı**
 
+### ⚙️ Ayarlar ve kurulum
+**Kolay Kurulum** sihirbazı işletme, müşteri, ürün ve ilk satış adımlarında yol gösterir; istediğin
+zaman panelden yeniden açılır. Ayar bölümleri: **İşletme** (logo — faturalarda görünür, vergi/TC no,
+vergi dairesi, iletişim, adres) · **Belge & Şablonlar** · **Fiyat** · **E-posta** · **Görünüm** ·
+**Modüller** · **Güvenlik** · **Veri** · **Kargo** · **API / B2B**.
+
+![Pusulam ayarlar](../gorseller/pusulam-ayarlar.png)
+
+### 🧾 Hareket Günlüğü — kim, ne zaman, ne yaptı?
+Satış, fatura, stok transferi, alış, tahsilat/ödeme… İşletmedeki her hareket kullanıcı ve zaman
+damgasıyla kaydedilir; kullanıcı, kayıt türü veya açıklamaya göre aranır, **CSV olarak indirilir**.
+Ekip çalışan işletmelerde şeffaflık ve denetim için.
+
+<img src="../gorseller/pusulam-hareket-gunlugu.png" alt="Pusulam hareket günlüğü" width="620">
+
+### 🚀 Sürekli gelişen bir ürün
+**19 ayda 243 güncelleme.** Sürüm geçmişi herkese açık: Canlı izleme, güvenlik, e-Fatura, marketplace,
+finans, yapay zekâ, şubeler, cari, stok, fatura ve kimlik doğrulama başlıklarında tüm değişiklikler.
+
+Örnek — **v2.4.12 · Hızlı Satış (POS) büyük güncelleme ve oturum kararlılığı:**
+- Barkod ve ürün arama tek kutuda (favoriler önce, barkod okut → ENTER)
+- *"Toplamı sabitle"*: genel toplamı elle yaz, indirim otomatik hesaplansın
+- Dokunmatik numpad, tartılı ürün barkodu (kg/gram), bilinmeyen barkodda hızlı stoksuz satış
+- Sepette birim fiyatı elle değiştirme (anlık pazarlık / ürüne özel indirim)
+- Satış fiyatlarını KDV dahil gösterme; ürün girerken KDV dahil/hariç seçimi
+
+![Pusulam sürüm geçmişi](../gorseller/pusulam-surum-gecmisi.png)
+
+👉 [pusulamx.com/versiyonlar](https://pusulamx.com/versiyonlar)
+
 ### 🎓 Pusulam Akademi — *"İşletmenizi 30 dakikada öğrenin"*
 **16 ders · 2 satış kanalı · 3 öğrenme yolu:** Mağaza/perakende yolu, Toptan/bayi yolu ve Tam paket.
 Kısa dersler, klavye kısayolları; ilk kurulum 10 dakikada (firma bilgisi, KDV, kasa hesabı, ilk ürün).
