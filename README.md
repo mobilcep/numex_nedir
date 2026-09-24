@@ -58,7 +58,7 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 
 **🧭 Pusulam** — esnaf ve KOBİ'ler için ön muhasebe, POS, e-Fatura, pazaryeri entegrasyonu ve Numex AI işletme asistanı · [pusulamx.com](https://pusulamx.com)
 
-**📦 GitHub depoları:** 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 🎓 [Okul](https://github.com/mobilcep/numex-okul) · 📖 [Pedia](https://github.com/mobilcep/numex-pedia) · 📦 [Hub](https://github.com/mobilcep/numex-hub) · 🏗️ [Forge](https://github.com/mobilcep/numex-forge) · 🎮 [Oyun Bahçesi](https://github.com/mobilcep/numex-oyun-bahcesi) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) · 🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**📦 GitHub depoları:** ✨ [Numex AI](https://github.com/mobilcep/numex) · ⌨️ [CLI](https://github.com/mobilcep/numex-cli) · 🛒 [Market](https://github.com/mobilcep/numex-market) · 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 🎓 [Okul](https://github.com/mobilcep/numex-okul) · 📖 [Pedia](https://github.com/mobilcep/numex-pedia) · 📦 [Hub](https://github.com/mobilcep/numex-hub) · 🏗️ [Forge](https://github.com/mobilcep/numex-forge) · 🎮 [Oyun Bahçesi](https://github.com/mobilcep/numex-oyun-bahcesi) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) · 🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru) · 🕵️ [Detective Mode](https://github.com/mobilcep/detective-mode-ai) · 🤖 [numex-bot](https://github.com/mobilcep/numex-bot)
 
 ## 📑 İçindekiler
 
