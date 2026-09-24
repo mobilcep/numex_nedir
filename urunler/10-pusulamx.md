@@ -102,6 +102,17 @@ e-Fatura / e-Arşiv için entegratör API (Nilvera) kullanılır.
 
 <img src="../gorseller/pusulam-fatura.png" alt="Pusulam fatura önizleme" width="520">
 
+### 📤 e-Fatura / e-Arşiv / e-İrsaliye
+Entegratör API (Nilvera) üzerinden fatura gönderimi, ön muhasebe kapsamında:
+- **Giden faturalar**, **gelen kutusu** ve **e-İrsaliye** sekmeleri
+- **Gönderilmeyi bekleyen satışlar:** kesilmemiş satış faturaları listelenir, **tek tıkla GİB'e gönderilir**;
+  müşteri VKN'si eksikse uyarır, belge türü (e-Fatura / e-Arşiv) otomatik seçilir
+- Gönderilmiş faturalar ETTN ve **GİB durumu** ile; durumlar tek tıkla yenilenir
+- **Canlı gönderim hazırlığı** kontrol listesi: sağlayıcı seçili · API anahtarı tanımlı · gönderici VKN
+  tanımlı · test modu kapalı. Varsayılan sandbox'ta güvenle denersiniz, hazır olunca canlıya geçersiniz.
+
+![Pusulam e-Fatura](../gorseller/pusulam-e-fatura.png)
+
 ### 🤖 Numex AI — işletme asistanı *(beta)*
 *"İşletmenizin akıllı muhasebe asistanı · yalnızca sizin verinizi bilir."*
 - *"Kritik stoktaki ürünler hangileri?"*
