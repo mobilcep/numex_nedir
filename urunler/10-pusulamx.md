@@ -110,8 +110,8 @@ Yaşlandırma · Borç / Alacak · POS Satış · En Çok Satan.** Tüm işlemle
   her hareket [Hareket Günlüğü](#-hareket-günlüğü--kim-ne-zaman-ne-yaptı)'ne yazılır.
 
 ### 🗂️ Ve daha fazlası
-Alışlar · Satışlar · **e-Fatura** · Şubeler · Müşteriler · Tedarikçiler · Teklifler · Hesaplar ·
-Banka Ekstresi · Kampanya · Hatırlatmalar · Raporlar · Ajanda · Çalışanlar & Ekip · **Muhasebeci Ağı**
+Alışlar · Satışlar · **e-Fatura** (Nilvera entegrasyonu) · Şubeler · Müşteriler · Tedarikçiler · Teklifler · Hesaplar ·
+Banka Ekstresi · **Kampanya** (e-posta / WhatsApp) · Hatırlatmalar · Raporlar · Ajanda · Çalışanlar & Ekip · **Muhasebeci Ağı**
 
 ### ⚙️ Ayarlar ve kurulum
 **Kolay Kurulum** sihirbazı işletme, müşteri, ürün ve ilk satış adımlarında yol gösterir; istediğin
@@ -159,6 +159,28 @@ Kısa dersler, klavye kısayolları; ilk kurulum 10 dakikada (firma bilgisi, KDV
 ### 📱 Telefonda da
 Uygulama mağazası gerekmez: tarayıcıdan **ana ekrana ekleyin** (PWA).
 Android Chrome: Menü → Ana ekrana ekle · iPhone Safari: Paylaş → Ana Ekrana Ekle.
+
+## ❓ Sık sorulan sorular
+
+**e-Fatura gerçekten GİB'e gidiyor mu?**
+Varsayılan kurulum güvenli bir sandbox (test) simülasyonudur. Canlı gönderim için Nilvera
+anahtarınızı *Yönetim Paneli → Entegrasyonlar*'dan girersiniz.
+
+**Şube verisi nasıl ayrılır?**
+Üst bardan aktif şube seçilir; ürün, cari ve belgeler o şubeye etiketlenir ve listelerde filtrelenir.
+
+**Mobil uygulama var mı?**
+Tarayıcıdan ana ekrana eklenen PWA olarak çalışır (Akademi'de adım adım anlatılır).
+
+**Kampanya e-posta / WhatsApp ile nasıl gider?**
+E-posta için Ayarlar'da SMTP bilgilerini girersiniz. WhatsApp'ta müşterinin telefonuna sohbet açılır;
+e-postası veya telefonu olmayan cariler atlanır.
+
+**Şifremi unuttum?**
+Giriş ekranındaki *Şifremi unuttum* ile e-postanıza sıfırlama bağlantısı gelir.
+
+Uygulama içindeki **Destek** sayfasından talep açabilirsiniz; talepler hesabınıza bağlı saklanır ve
+yanıtlanır.
 
 ## 🚀 Başlayın
 
