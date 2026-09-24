@@ -48,7 +48,11 @@ Kasada saniyeler kazandıran satış ekranı:
 ### 🏷️ Fiyat Gör — müşteri ekranı
 Barkodu okutun, fiyat anında görünsün: ürün görseli, stok, KDV dahil fiyat ve toptan fiyat.
 
-![Pusulam Fiyat Gör](../gorseller/pusulam-fiyat-gor.png)
+| Bekleme | Barkod okutulunca |
+|---|---|
+| ![Fiyat Gör — hoş geldiniz](../gorseller/pusulam-fiyat-gor-bekleme.png) | ![Fiyat Gör — ürün](../gorseller/pusulam-fiyat-gor.png) |
+
+① Barkodu okutun → ② Fiyatı görün → ③ Kasaya gidin
 
 ### 🤖 Numex AI — işletme asistanı *(beta)*
 *"İşletmenizin akıllı muhasebe asistanı · yalnızca sizin verinizi bilir."*
