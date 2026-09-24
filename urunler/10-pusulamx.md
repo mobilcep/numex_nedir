@@ -119,6 +119,15 @@ finans, yapay zekâ, şubeler, cari, stok, fatura ve kimlik doğrulama başlıkl
 
 👉 [pusulamx.com/versiyonlar](https://pusulamx.com/versiyonlar)
 
+### 🟢 Açık durum sayfası
+Pusulam'ın sağlığı herkese açık: **uygulama API'si, PostgreSQL veritabanı, e-posta, e-Fatura ve
+zamanlanmış görevler** anlık izlenir; son yedekleme zamanı, uygulama sürümü ve son 24 saatin / 30
+günün kesintisiz hizmet göstergesi tek sayfada.
+
+![Pusulam durum sayfası](../gorseller/pusulam-durum.png)
+
+👉 [pusulamx.com/durum](https://pusulamx.com/durum)
+
 ### 🎓 Pusulam Akademi — *"İşletmenizi 30 dakikada öğrenin"*
 **16 ders · 2 satış kanalı · 3 öğrenme yolu:** Mağaza/perakende yolu, Toptan/bayi yolu ve Tam paket.
 Kısa dersler, klavye kısayolları; ilk kurulum 10 dakikada (firma bilgisi, KDV, kasa hesabı, ilk ürün).
