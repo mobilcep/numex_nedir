@@ -81,6 +81,18 @@ Barkodu okutun, fiyat anında görünsün: ürün görseli, stok, KDV dahil fiya
 Ödenmiş · ödenecek · gecikmiş takibi, **tekrarlayan işlemler** ve 📷 **Akıllı Fiş Oku (AI)** —
 fişin fotoğrafını çek, masraf otomatik oluşsun.
 
+### 🏦 Banka Ekstresi — otomatik eşleştirme
+İnternet bankacılığından indirdiğin **CSV ekstreyi yükle**; gelen paralar cari tahsilata veya açık
+faturaya, giden paralar cari ödemeye veya masrafa **otomatik bağlanır**. Eşleşmeyenleri tek tıkla
+cariye ya da masrafa bağlarsın. Toplam giriş-çıkış ve eşleşme oranı özet kartlarda.
+
+**CSV ile desteklenen bankalar:** Ziraat · İş Bankası · Garanti BBVA · Yapı Kredi · Akbank ·
+QNB Finansbank · DenizBank · TEB · Halkbank · VakıfBank · ING · HSBC · Şekerbank · Fibabanka ·
+Enpara · Kuveyt Türk · Albaraka Türk · Türkiye Finans · Odea Bank · Anadolubank ve özel formatlar
+(`Tarih;Açıklama;Tutar` veya `Tarih;Açıklama;Borç;Alacak`).
+
+![Pusulam banka ekstresi](../gorseller/pusulam-banka-ekstresi.png)
+
 ### 🧾 Çek & Senet
 Alınan (müşteri) ve verilen (tedarikçi) evraklar; **portföyde, bankada tahsilde, ciro edilen, vadesi
 geçen, tamamlanan, karşılıksız** durumları. Bankaya ver, ciro et, tahsil et tek tıkla.
