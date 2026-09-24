@@ -97,6 +97,18 @@ Enpara · Kuveyt Türk · Albaraka Türk · Türkiye Finans · Odea Bank · Anad
 Alınan (müşteri) ve verilen (tedarikçi) evraklar; **portföyde, bankada tahsilde, ciro edilen, vadesi
 geçen, tamamlanan, karşılıksız** durumları. Bankaya ver, ciro et, tahsil et tek tıkla.
 
+### 📈 Raporlar — işletmenin finansal analizi
+Aylık ciro, masraf, alış ve tahmini net kâr kartları; son 6 ayın **satış / alış / masraf** grafiği ve
+**masraf dağılımı** (kira, vergi, enerji, pazarlama, lojistik…). Rapor sekmeleri:
+**Genel · Kâr / Zarar · Nakit Akışı · KDV Takibi · Kârlılık · Kasa Gün Sonu · Çek & Senet ·
+Yaşlandırma · Borç / Alacak · POS Satış · En Çok Satan.** Tüm işlemler ve raporlar **CSV** olarak indirilir.
+
+### 👥 Çalışanlar & Ekip
+- **Çalışanlar (bordro & avans):** Her çalışan için maaş, verilen avans ve ödenen tutar; tek tıkla
+  **Avans** veya **Maaş Öde**, ödeme geçmişi. *(Basit bordro kaydıdır; SGK/e-bordro yerine geçmez.)*
+- **Ekip (sistem kullanıcıları):** Ekip üyelerine yalnızca ihtiyaç duydukları yetkileri ver;
+  her hareket [Hareket Günlüğü](#-hareket-günlüğü--kim-ne-zaman-ne-yaptı)'ne yazılır.
+
 ### 🗂️ Ve daha fazlası
 Alışlar · Satışlar · **e-Fatura** · Şubeler · Müşteriler · Tedarikçiler · Teklifler · Hesaplar ·
 Banka Ekstresi · Kampanya · Hatırlatmalar · Raporlar · Ajanda · Çalışanlar & Ekip · **Muhasebeci Ağı**
