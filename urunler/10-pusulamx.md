@@ -28,6 +28,33 @@
 büyümeyi ve insan ile yapay zekânın çarpan etkisini temsil eder. Pusulam, [Numex AI](https://numexai.com.tr)
 ekibinin ürünüdür.
 
+## 👥 Kimler için?
+
+**KOBİ'ler, esnaf ve serbest çalışanlar:** dükkân, atölye, perakende ve hizmet işletmeleri.
+Mağaza/perakende (kasa odaklı) ve toptan/bayi (açık hesap ve belge ağırlıklı) çalışma şekillerinin
+ikisine de uygun; aynı stok, iki satış kanalı.
+
+| Kapsamda ✅ | Kapsam dışı ❌ |
+|---|---|
+| Gelir-gider, cari, stok, kasa, banka, çek-senet, raporlar | Resmi beyanname |
+| Satış/alış faturası, teklif, PDF; e-Fatura/e-Arşiv (entegratör API ile) | e-Defter |
+| POS, pazaryeri entegrasyonları, basit bordro/avans kaydı | Maliye işlemleri, SGK/e-bordro |
+
+Resmi işlemler için mali müşavirinizle çalışmaya devam edersiniz; Pusulam'daki **Muhasebeci Ağı**
+bu iş birliğini kolaylaştırır.
+
+> 💡 **Demo hesabıyla incele:** Hiç veri girmeden örnek bir işletme üzerinde uygulamayı hemen dene.
+
+## 🤝 Numex AI ekibi tarafından
+
+**PusulamX, [Numex AI](https://numexai.com.tr) ekibi tarafından kurulmuştur.** İsimdeki **X**, ana
+şirket Numex AI'ın felsefesinden gelir: katlanarak büyüme ve insan ile yapay zekânın çarpan etkisi.
+*Amaç işletmenizi sadece yönetmek değil, "X" çarpanıyla büyütmek.*
+
+- 💡 **Özellik talebi:** Olması gereken bir özellik mi var? Yazın, Numex AI ekibi geliştirsin.
+- 🛠️ **Size özel uygulama:** İşletmenize özel ihtiyaçlar için özel geliştirme.
+- 🗺️ Ürün yol haritası gerçek işletme geri bildirimleriyle şekillenir.
+
 ## ✨ Neler yapabilirsiniz?
 
 ### 📊 Genel Bakış
