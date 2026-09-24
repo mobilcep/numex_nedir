@@ -28,6 +28,15 @@
 büyümeyi ve insan ile yapay zekânın çarpan etkisini temsil eder. Pusulam, [Numex AI](https://numexai.com.tr)
 ekibinin ürünüdür.
 
+## 🧭 Gerçek Kuzey
+
+Ticaretin karmaşık, hızlı ve bazen belirsiz sularında ilerlerken işletmelerin en çok ihtiyaç duyduğu
+şey **netlik ve yöndür**. Pusulam tam da bu ihtiyaca cevap vermek için doğdu. Amacı sadece bir
+muhasebe yazılımı olmak değil; esnaf, KOBİ ve kurumsal şirketlerin büyüme yolculuğunda onlara her
+zaman *"Gerçek Kuzey"*i gösteren, sapmaları engelleyen ve hedefe ulaştıran güvenilir bir rehber olmak.
+
+> ***"Karmaşıklığı sadeleştiriyor, rotanızı güvence altına alıyoruz."***
+
 ## 👥 Kimler için?
 
 **KOBİ'ler, esnaf ve serbest çalışanlar:** dükkân, atölye, perakende ve hizmet işletmeleri.
