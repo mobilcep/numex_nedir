@@ -56,7 +56,10 @@ bu iş birliğini kolaylaştırır.
 
 ## 🤝 Numex AI ekibi tarafından
 
-**PusulamX, [Numex AI](https://numexai.com.tr) ekibi tarafından kurulmuştur.** İsimdeki **X**, ana
+**PusulamX, [Numex AI](https://numexai.com.tr) ekibi tarafından kurulmuştur.** Pusulam,
+**Mehmet Ali Ceylan'ın 6 yıllık vizyoner projesi** olarak doğdu ve **Aralık 2024**'te ilk commit'iyle
+(v0.0.1) Numex AI mühendislik ekibi tarafından hayata geçirildi: ilk sürüm taslağı, veri mimarisi ve
+uygulama şablonu. O günden bu yana **243 güncelleme** ile bugünkü v2.4.22'ye ulaştı. İsimdeki **X**, ana
 şirket Numex AI'ın felsefesinden gelir: katlanarak büyüme ve insan ile yapay zekânın çarpan etkisi.
 *Amaç işletmenizi sadece yönetmek değil, "X" çarpanıyla büyütmek.*
 
