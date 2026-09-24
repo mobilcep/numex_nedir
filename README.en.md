@@ -107,7 +107,7 @@ flowchart TB
 | 📦 **Numex Hub** | Developers | AI that knows your repo: ask for a change, review it, apply → committed. Community showcase, trending repos, live feed | [hub.numexai.com.tr](https://hub.numexai.com.tr) |
 | 🏗️ **Numex Forge** | Developers | Gitea-based Git server with a fully Turkish UI | [forge.numexai.com.tr](https://forge.numexai.com.tr) |
 | 📖 **Numexpedia** | Everyone | Computing, AI and software explained in plain Turkish — free and open | [pedia.numexai.com.tr](https://pedia.numexai.com.tr) |
-| 🧭 **Pusulam** | SMEs | Bookkeeping & point of sale | [pusulamx.com.tr](https://pusulamx.com.tr) |
+| 🧭 **Pusulam** | SMEs | Bookkeeping & point of sale | [pusulamx.com](https://pusulamx.com) |
 | 🩺 **PC Doktoru** | Windows users | Portable AI maintenance, diagnosis and repair with autonomous mode and rollback | [pcdoktoru.com.tr](https://pcdoktoru.com.tr) |
 
 ## ⚡ What makes Numex different

@@ -54,7 +54,11 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 </tr>
 </table>
 
-**Geliştiriciler için:** 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 📦 [Hub](https://hub.numexai.com.tr) · 🏗️ [Forge](https://forge.numexai.com.tr)
+<a href="https://pusulamx.com"><img src="gorseller/kart-pusulam.png" alt="Pusulam — esnaf ve KOBİ'ler için ön muhasebe ve POS" width="100%"></a>
+
+**🧭 Pusulam** — esnaf ve KOBİ'ler için ön muhasebe, POS, e-Fatura, pazaryeri entegrasyonu ve Numex AI işletme asistanı · [pusulamx.com](https://pusulamx.com)
+
+**📦 GitHub depoları:** 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 🎓 [Okul](https://github.com/mobilcep/numex-okul) · 📖 [Pedia](https://github.com/mobilcep/numex-pedia) · 📦 [Hub](https://github.com/mobilcep/numex-hub) · 🏗️ [Forge](https://github.com/mobilcep/numex-forge) · 🎮 [Oyun Bahçesi](https://github.com/mobilcep/numex-oyun-bahcesi) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) · 🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
 ## 📑 İçindekiler
 
@@ -144,7 +148,7 @@ flowchart TB
 | [hub.numexai.com.tr](https://hub.numexai.com.tr) | Numex Hub — AI depo yönetimi, Topluluk Vitrini |
 | [forge.numexai.com.tr](https://forge.numexai.com.tr) | Numex Forge — Gitea tabanlı Git sunucusu |
 | [pedia.numexai.com.tr](https://pedia.numexai.com.tr) | Numexpedia — özgür Türkçe ansiklopedi |
-| [pusulamx.com.tr](https://pusulamx.com.tr) | Pusulam — ön muhasebe & POS |
+| [pusulamx.com](https://pusulamx.com) | Pusulam — ön muhasebe & POS |
 | [pcdoktoru.com.tr](https://pcdoktoru.com.tr) | PC Doktoru — Windows bakım |
 
 ## 🧩 Ürünler
