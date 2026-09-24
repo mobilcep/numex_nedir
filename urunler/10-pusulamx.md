@@ -209,11 +209,24 @@ Giriş ekranındaki *Şifremi unuttum* ile e-postanıza sıfırlama bağlantıs�
 Uygulama içindeki **Destek** sayfasından talep açabilirsiniz; talepler hesabınıza bağlı saklanır ve
 yanıtlanır.
 
-## 🚀 Başlayın
+## 🚀 Başlayın — ilk 15 dakika
 
-1. [pusulamx.com](https://pusulamx.com) → **7 gün ücretsiz dene** (kart gerekmez)
-2. Ya da önce **Demo ile incele**
-3. Akademi'deki *İlk kurulum: 10 dakikada hazır* dersini izleyin
+Hesabı açtıktan sonra ilk faturanıza kadar yaklaşık **15 dakika**:
+
+| # | Adım | Nerede? |
+|:-:|---|---|
+| 1 | **Kayıt olun** veya **demo ile inceleyin** (demo hesabı örnek verilerle dolu) | Giriş ekranı · [pusulamx.com](https://pusulamx.com) — 7 gün ücretsiz, kart gerekmez |
+| 2 | İşletme bilgilerini girin: ad, vergi no, adres, telefon, logo | Sağ üst profil → Ayarlar |
+| 3 | En az bir **kasa veya banka hesabı** tanımlayın | Hesaplar |
+| 4 | İlk **müşterinizi** ekleyin | Müşteriler → + Yeni |
+| 5 | İlk **ürününüzü** ekleyin: satış fiyatı, KDV, (isteğe bağlı) barkod | Ürünler → + Yeni |
+| 6 | İlk **satış / faturanızı** kesin: kâğıt, e-Fatura veya e-Arşiv | Satışlar → + Yeni |
+| 7 | **Yazdırın, PDF kaydedin** veya e-postayla gönderin | Belge önizleme |
+
+> e-Fatura göndermek için Yardım Merkezi'ndeki **e-Fatura Kurulumu (Nilvera API)** adımlarını
+> tamamlarsınız. Kâğıt fatura ve yazdırma/PDF için ek kurulum gerekmez.
+
+Adım adım videolu anlatım için uygulamadaki **Akademi**'ye (*İlk kurulum: 10 dakikada hazır*) bakın.
 
 ## 📬 İletişim
 
