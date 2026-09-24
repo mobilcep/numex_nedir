@@ -268,13 +268,13 @@ Adım adım videolu anlatım için uygulamadaki **Akademi**'ye (*İlk kurulum: 1
 
 Sitede ayrıca: Özellikler · Sektörler · Fiyatlar · Blog · Yardım Merkezi · Veri Güvenliği · Gizlilik ·
 KVKK · Mesafeli Satış Sözleşmesi · İptal, İade ve Cayma.
-Bu depo Pusulam'ın **tanıtım ve geri bildirim** deposudur → öneri ve hata bildirimi için [Issues](https://github.com/mobilcep/pusulamx/issues).
+Bu depo Pusulam'ın **tanıtım ve geri bildirim** deposudur → öneri ve hata bildirimi için [Issues](https://github.com/numexai/pusulamx/issues).
 
 ---
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/numexai/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
 *İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
