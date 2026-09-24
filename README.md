@@ -58,7 +58,7 @@ Türkçe'ye ve Türk kullanıcısına özel — verileri Türkiye'de, KVKK uyuml
 
 **🧭 Pusulam** — esnaf ve KOBİ'ler için ön muhasebe, POS, e-Fatura, pazaryeri entegrasyonu ve Numex AI işletme asistanı · [pusulamx.com](https://pusulamx.com)
 
-**📦 GitHub depoları:** ✨ [Numex AI](https://github.com/mobilcep/numex) · ⌨️ [CLI](https://github.com/mobilcep/numex-cli) · 🛒 [Market](https://github.com/mobilcep/numex-market) · 🧩 [Codex](https://github.com/mobilcep/numex-codex) · 🔌 [API](https://github.com/mobilcep/numex-api) · 🧰 [SDK](https://github.com/mobilcep/numex-sdk) · 🎓 [Okul](https://github.com/mobilcep/numex-okul) · 📖 [Pedia](https://github.com/mobilcep/numex-pedia) · 📦 [Hub](https://github.com/mobilcep/numex-hub) · 🏗️ [Forge](https://github.com/mobilcep/numex-forge) · 🎮 [Oyun Bahçesi](https://github.com/mobilcep/numex-oyun-bahcesi) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) · 🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru) · 🕵️ [Detective Mode](https://github.com/mobilcep/detective-mode-ai) · 🤖 [numex-bot](https://github.com/mobilcep/numex-bot)
+**📦 GitHub depoları:** ✨ [Numex AI](https://github.com/numexai/numex) · ⌨️ [CLI](https://github.com/numexai/numex-cli) · 🛒 [Market](https://github.com/numexai/numex-market) · 🧩 [Codex](https://github.com/numexai/numex-codex) · 🔌 [API](https://github.com/numexai/numex-api) · 🧰 [SDK](https://github.com/numexai/numex-sdk) · 🎓 [Okul](https://github.com/numexai/numex-okul) · 📖 [Pedia](https://github.com/numexai/numex-pedia) · 📦 [Hub](https://github.com/numexai/numex-hub) · 🏗️ [Forge](https://github.com/numexai/numex-forge) · 🎮 [Oyun Bahçesi](https://github.com/numexai/numex-oyun-bahcesi) · 🧭 [Pusulam](https://github.com/mobilcep/pusulamx) · 🩺 [PC Doktoru](https://github.com/mobilcep/pcdoktoru) · 🕵️ [Detective Mode](https://github.com/numexai/detective-mode-ai) · 🤖 [numex-bot](https://github.com/mobilcep/numex-bot)
 
 ## 📑 İçindekiler
 
@@ -283,7 +283,7 @@ curl -X POST https://www.numexai.com.tr/api/v1/chat \
   -d '{"message":"Merhaba","history":[]}'
 ```
 
-📦 **Depolar:** [numex-codex](https://github.com/mobilcep/numex-codex) · [numex-api](https://github.com/mobilcep/numex-api) · [numex-sdk](https://github.com/mobilcep/numex-sdk) (açık kaynak)
+📦 **Depolar:** [numex-codex](https://github.com/numexai/numex-codex) · [numex-api](https://github.com/numexai/numex-api) · [numex-sdk](https://github.com/numexai/numex-sdk) (açık kaynak)
 
 → [CLI](urunler/02-numex-cli.md) · [Codex IDE](urunler/03-numex-codex-ide.md) · [Core](urunler/04-numex-core.md) · [API & SDK](urunler/05-api-ve-sdk.md) · [Hub & Forge](urunler/06-hub-ve-forge.md)
 
